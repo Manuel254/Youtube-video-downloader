@@ -1,0 +1,4 @@
+customtkinter==5.0.5
+darkdetect==0.8.0
+pytube==12.1.2
+tk==0.1.0
